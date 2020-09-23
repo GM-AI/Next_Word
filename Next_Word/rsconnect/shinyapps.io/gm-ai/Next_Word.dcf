@@ -1,0 +1,13 @@
+name: Next_Word
+title: Next_Word
+username:
+account: gm-ai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2806486
+bundleId: 3662288
+url: https://gm-ai.shinyapps.io/Next_Word/
+when: 1600874880.73362
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DESCRIPTION|testr.R
